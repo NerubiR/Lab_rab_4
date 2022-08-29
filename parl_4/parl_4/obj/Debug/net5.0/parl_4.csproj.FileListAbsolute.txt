@@ -1,0 +1,16 @@
+C:\Users\Влад\source\repos\parl_4\parl_4\bin\Debug\net5.0\parl_4.exe
+C:\Users\Влад\source\repos\parl_4\parl_4\bin\Debug\net5.0\parl_4.deps.json
+C:\Users\Влад\source\repos\parl_4\parl_4\bin\Debug\net5.0\parl_4.runtimeconfig.json
+C:\Users\Влад\source\repos\parl_4\parl_4\bin\Debug\net5.0\parl_4.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\parl_4\parl_4\bin\Debug\net5.0\parl_4.dll
+C:\Users\Влад\source\repos\parl_4\parl_4\bin\Debug\net5.0\ref\parl_4.dll
+C:\Users\Влад\source\repos\parl_4\parl_4\bin\Debug\net5.0\parl_4.pdb
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.AssemblyInfo.cs
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.dll
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\ref\parl_4.dll
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.pdb
+C:\Users\Влад\source\repos\parl_4\parl_4\obj\Debug\net5.0\parl_4.genruntimeconfig.cache
